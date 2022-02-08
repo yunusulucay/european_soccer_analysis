@@ -1,4 +1,4 @@
-# european_soccer_analysis
+# European Soccer Analysis
 
 Data Analysis on European Soccer Data using SQLite
 
